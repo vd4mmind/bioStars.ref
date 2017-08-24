@@ -1,8 +1,8 @@
-# bioStars.ref
+# bioStars.ref 
 Some hacks that are pretty useful in day to day activities for Bioinformatics , handy as cheatsheets
 List of Biostars links that can be useful as cheatsheets and will be updated whenever I will get time
 Motivation is to mostly to put my bookmarks here for my references and also for others who might find it useful.
-Date: 28-04-2017
+# Date: 28-04-2017
 `daily cheatsheets`
 https://www.biostars.org/p/6660/ 
 
